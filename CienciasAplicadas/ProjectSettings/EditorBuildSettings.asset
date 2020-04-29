@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 226886fe16fee654f90f41d21811bd01
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 30dee991f52b85141a6ead79072ec130
+  - enabled: 1
+    path: Assets/Scenes/AngryCells.unity
+    guid: e21ad56ec9beab54db06e3806ccb2012
+  - enabled: 1
+    path: Assets/Scenes/SoapPong.unity
+    guid: df2d8a9d3b921d243a2384c870981173
+  - enabled: 1
+    path: Assets/Scenes/kLaw.unity
+    guid: b25145bf744f80549ba0c047a8e8332a
   m_configObjects: {}
