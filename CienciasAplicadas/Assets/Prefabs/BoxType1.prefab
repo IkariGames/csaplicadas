@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1836179233538900045}
   - component: {fileID: 8597497447560187594}
   - component: {fileID: 6016967839742325307}
+  - component: {fileID: 1224540800}
   m_Layer: 0
   m_Name: BoxType1
   m_TagString: Untagged
@@ -69,8 +70,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 404279111
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 66aa2f3382e881f4abab64e03b1cc77d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -130,3 +131,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1224540800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5533490764757593206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e240c80bd63582408557dd93b1e44b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resistance: 35
+  explosionPrefab: {fileID: 9104169560711364303, guid: 03e94e22b91786a4a9120497f8bd040f,
+    type: 3}
