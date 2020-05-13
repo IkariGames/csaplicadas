@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cell
+  - Corona
+  - Struct
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3598908321
+    locked: 0
+  - name: Plataforms
+    uniqueID: 3878694731
+    locked: 0
+  - name: Sligshot1
+    uniqueID: 405851773
+    locked: 0
+  - name: Player
+    uniqueID: 633768181
+    locked: 0
+  - name: Structs
+    uniqueID: 404279111
+    locked: 0
+  - name: Enemies
+    uniqueID: 2941001863
+    locked: 0
+  - name: Sligshot2
+    uniqueID: 3751860861
     locked: 0

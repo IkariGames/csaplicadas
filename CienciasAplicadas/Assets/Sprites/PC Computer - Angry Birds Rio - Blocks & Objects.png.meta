@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: b9434a9e1a3d51a41a3b72d9dbaf1a10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1396387165594066367
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_0
+  - first:
+      213: -991439852726014436
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_1
+  - first:
+      213: 720603750362068676
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_2
+  - first:
+      213: -9174643768908025699
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_3
+  - first:
+      213: -7854308327675124892
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_4
+  - first:
+      213: 961982291102734149
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_5
+  - first:
+      213: 8248217386134283880
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_6
+  - first:
+      213: 2637034195556484059
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_7
+  - first:
+      213: -4519340836470430340
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_8
+  - first:
+      213: 8464418280978806826
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_9
+  - first:
+      213: -866546985724137487
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_10
+  - first:
+      213: -8337346747610456157
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_11
+  - first:
+      213: -8451247120457938106
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_12
+  - first:
+      213: -8822280069193166
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_13
+  - first:
+      213: -7315049267073976423
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_14
+  - first:
+      213: -4193969961986869648
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_15
+  - first:
+      213: -4615274011787978419
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_16
+  - first:
+      213: 4055893253778161610
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_17
+  - first:
+      213: 8815199095722411677
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_18
+  - first:
+      213: -3145749006724126791
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_19
+  - first:
+      213: 5609145659179690583
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_20
+  - first:
+      213: 1147363922906123210
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_21
+  - first:
+      213: 5856975842531642050
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_22
+  - first:
+      213: 5910182893237417312
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_23
+  - first:
+      213: 7038601523101865145
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_24
+  - first:
+      213: -7445503429281795653
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_25
+  - first:
+      213: -3684259089296689405
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_26
+  - first:
+      213: 3207072722477409799
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_27
+  - first:
+      213: -6434043080233931500
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_28
+  - first:
+      213: 5581284581102909191
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_29
+  - first:
+      213: 2761668824259997392
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_30
+  - first:
+      213: -6346588226514216422
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_31
+  - first:
+      213: -5485649485096142912
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_32
+  - first:
+      213: -8329933141552994163
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_33
+  - first:
+      213: -6727393637265119320
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_34
+  - first:
+      213: 1104860653825061909
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_35
+  - first:
+      213: 3773522950883695489
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_36
+  - first:
+      213: 6875013912884668877
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_37
+  - first:
+      213: 79983861440698410
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_38
+  - first:
+      213: 8742363579797622582
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_39
+  - first:
+      213: -6276381270580260276
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_40
+  - first:
+      213: -7227338249000767473
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_41
+  - first:
+      213: -368624284299203494
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_42
+  - first:
+      213: 6455780701787304254
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_43
+  - first:
+      213: 6084313115163499510
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_44
+  - first:
+      213: -8605265432615963871
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_45
+  - first:
+      213: 1596763182276494993
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_46
+  - first:
+      213: 5053755264317371577
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_47
+  - first:
+      213: 6848725568163558720
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_48
+  - first:
+      213: -7359237781028625410
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_49
+  - first:
+      213: 1957746030290848263
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_50
+  - first:
+      213: 556560429490923161
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_51
+  - first:
+      213: -8185307892763073484
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_52
+  - first:
+      213: -2607724981839065542
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_53
+  - first:
+      213: -422162071747317159
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_54
+  - first:
+      213: 3955674776853515739
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_55
+  - first:
+      213: -3180149979437416283
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_56
+  - first:
+      213: 6543333418139247763
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_57
+  - first:
+      213: 1286913648882756639
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_58
+  - first:
+      213: 7775794908452105898
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_59
+  - first:
+      213: 1723348014889582923
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_60
+  - first:
+      213: -37767391388969097
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_61
+  - first:
+      213: 9208477634986913455
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_62
+  - first:
+      213: 806150070721835043
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_63
+  - first:
+      213: -1495016312452611623
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_64
+  - first:
+      213: 6484033458962210646
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_65
+  - first:
+      213: 3047843167517472143
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_66
+  - first:
+      213: 1194882803769449347
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_67
+  - first:
+      213: 2099539382206923502
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_68
+  - first:
+      213: 8834436850530374618
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_69
+  - first:
+      213: -870465860166235955
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_70
+  - first:
+      213: 8734751344638981818
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_71
+  - first:
+      213: -4694261703122995959
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_72
+  - first:
+      213: 1550647420994607649
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_73
+  - first:
+      213: -2397097206582042343
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_74
+  - first:
+      213: 2766294653799580039
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_75
+  - first:
+      213: 605046801529196185
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_76
+  - first:
+      213: 5054569419885314829
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_77
+  - first:
+      213: 376312022515315368
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_78
+  - first:
+      213: -4497577385251969664
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_79
+  - first:
+      213: -331802110253343736
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_80
+  - first:
+      213: 6402856111730433118
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_81
+  - first:
+      213: -7803947610700607748
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_82
+  - first:
+      213: -6702100513643955762
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_83
+  - first:
+      213: 8892726137322274078
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_84
+  - first:
+      213: 7416909962399755771
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_85
+  - first:
+      213: 5598783418709787132
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_86
+  - first:
+      213: -5799215519799031089
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_87
+  - first:
+      213: -1199980635286697947
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_88
+  - first:
+      213: -366173997420777024
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_89
+  - first:
+      213: -4500505252659885879
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_90
+  - first:
+      213: -3499894004068873792
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_91
+  - first:
+      213: 1754976289899551755
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_92
+  - first:
+      213: 121037802256890524
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_93
+  - first:
+      213: 408314612683207286
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_94
+  - first:
+      213: -4201402141477189724
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_95
+  - first:
+      213: 7855713929418757119
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_96
+  - first:
+      213: 1803541266157249234
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_97
+  - first:
+      213: -7837927256033560315
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_98
+  - first:
+      213: -8854263227738687631
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_99
+  - first:
+      213: -1362093803624870015
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_100
+  - first:
+      213: 1805093017690611823
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_101
+  - first:
+      213: 8760673987743671777
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_102
+  - first:
+      213: -7946304303415295584
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_103
+  - first:
+      213: -3442501089066765562
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_104
+  - first:
+      213: -383786680796343259
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_105
+  - first:
+      213: -5088169695969978856
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_106
+  - first:
+      213: 3442549131148710932
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_107
+  - first:
+      213: 332669099042353584
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_108
+  - first:
+      213: -1714052511848084260
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_109
+  - first:
+      213: 8369816809526723035
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_110
+  - first:
+      213: 468269363398209616
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_111
+  - first:
+      213: -1104665284967666570
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_112
+  - first:
+      213: 2918840824742220802
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_113
+  - first:
+      213: 7739709559510181977
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_114
+  - first:
+      213: 876086692682660996
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_115
+  - first:
+      213: 3015993620440711510
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_116
+  - first:
+      213: 4527474837926639565
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_117
+  - first:
+      213: -30716104380602654
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_118
+  - first:
+      213: -4879276130117004448
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_119
+  - first:
+      213: 1447322949496403604
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_120
+  - first:
+      213: -3364460649639890517
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_121
+  - first:
+      213: -2415209932768949800
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_122
+  - first:
+      213: -3325478548259898696
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_123
+  - first:
+      213: 1294839185428229392
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_124
+  - first:
+      213: 2560401370672702999
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_125
+  - first:
+      213: -8090704960684636206
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_126
+  - first:
+      213: -5824992212821575765
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_127
+  - first:
+      213: -5036876420389679483
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_128
+  - first:
+      213: -8127489254570028174
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_129
+  - first:
+      213: -3806196005878568065
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_130
+  - first:
+      213: 2427497804477130120
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_131
+  - first:
+      213: 9215851973732565735
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_132
+  - first:
+      213: 8301548081770412116
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_133
+  - first:
+      213: -5708134259318469642
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_134
+  - first:
+      213: -2413116222437303568
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_135
+  - first:
+      213: -2446848206065076034
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_136
+  - first:
+      213: -8589594739564427428
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_137
+  - first:
+      213: -3353163218346053021
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_138
+  - first:
+      213: -8250984395335823683
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_139
+  - first:
+      213: 2389591647851244988
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_140
+  - first:
+      213: -6515759794016718330
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_141
+  - first:
+      213: -1426712340679827805
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_142
+  - first:
+      213: 3869045089316981889
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_143
+  - first:
+      213: 2406718494984557833
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_144
+  - first:
+      213: -6773372633125606165
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_145
+  - first:
+      213: -7206234513221253533
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_146
+  - first:
+      213: -9036378324455844413
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_147
+  - first:
+      213: -2966518794403246262
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_148
+  - first:
+      213: 7049852588729717456
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_149
+  - first:
+      213: 1224027575026383766
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_150
+  - first:
+      213: 5987434699526272334
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_151
+  - first:
+      213: -706252287302001051
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_152
+  - first:
+      213: 6656432159771231605
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_153
+  - first:
+      213: 7895425189811330872
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_154
+  - first:
+      213: 6504490278010123073
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_155
+  - first:
+      213: -5738189930005974164
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_156
+  - first:
+      213: -4175402633750585724
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_157
+  - first:
+      213: -1746879129629839222
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_158
+  - first:
+      213: -5848703051057371540
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_159
+  - first:
+      213: 798398597692904272
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_160
+  - first:
+      213: -5843748280335632760
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_161
+  - first:
+      213: -3658724487725828423
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_162
+  - first:
+      213: -3640349497016963311
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_163
+  - first:
+      213: -4067547158546956303
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_164
+  - first:
+      213: 7014126298643226650
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_165
+  - first:
+      213: 8541633540142501638
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_166
+  - first:
+      213: -5897992209613499255
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_167
+  - first:
+      213: 6538702673413572763
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_168
+  - first:
+      213: -3419080173972618118
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_169
+  - first:
+      213: 5368031949372134047
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_170
+  - first:
+      213: 7494542104159134147
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_171
+  - first:
+      213: 3731372602119965339
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_172
+  - first:
+      213: -5522243555987104356
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_173
+  - first:
+      213: 9089127616054856705
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_174
+  - first:
+      213: 7709446186282562975
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_175
+  - first:
+      213: 9149740951830932508
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_176
+  - first:
+      213: 3625505301823898520
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_177
+  - first:
+      213: 9183987027366576706
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_178
+  - first:
+      213: -7397159310600297614
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_179
+  - first:
+      213: 7642510516282554618
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_180
+  - first:
+      213: 4292642991698169143
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_181
+  - first:
+      213: 4909337110809379695
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_182
+  - first:
+      213: -5357184802440107435
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_183
+  - first:
+      213: 6225615580607342844
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_184
+  - first:
+      213: 1420399594664201354
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_185
+  - first:
+      213: 3495600306929848950
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_186
+  - first:
+      213: -6732731075961853130
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_187
+  - first:
+      213: 6608775666036985197
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_188
+  - first:
+      213: -2632338014532563931
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_189
+  - first:
+      213: -4687975250086422852
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_190
+  - first:
+      213: -5597563500574657519
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_191
+  - first:
+      213: 927681899370226271
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_192
+  - first:
+      213: -5094599421813381825
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_193
+  - first:
+      213: 6178362522715765037
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_194
+  - first:
+      213: 3157606336204715813
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_195
+  - first:
+      213: 8614999530365574497
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_196
+  - first:
+      213: -8358227982868371449
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_197
+  - first:
+      213: -706759333868592450
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_198
+  - first:
+      213: 7136658757078629143
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_199
+  - first:
+      213: -5263069748711635664
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_200
+  - first:
+      213: -1998512633589549494
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_201
+  - first:
+      213: 1734142115607084672
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_202
+  - first:
+      213: -7053610094767247794
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_203
+  - first:
+      213: -3789323183751808903
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_204
+  - first:
+      213: -7651008768460760038
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_205
+  - first:
+      213: 4719545326654376312
+    second: PC Computer - Angry Birds Rio - Blocks & Objects_206
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 686
+        width: 48
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e9d175490f9ce0800000000000000
+      internalID: -1396387165594066367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1322
+        width: 46
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea912f4b2bd32f0800000000000000
+      internalID: -991439852726014436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_2
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1793
+        width: 250
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c635240b49100a00800000000000000
+      internalID: 720603750362068676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_3
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1810
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d907c7df91e1da080800000000000000
+      internalID: -9174643768908025699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1888
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463288c9034eff290800000000000000
+      internalID: -7854308327675124892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_5
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1974
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54715650cc5a95d00800000000000000
+      internalID: 961982291102734149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_6
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2008
+        width: 122
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8662cb2030e877270800000000000000
+      internalID: 8248217386134283880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
