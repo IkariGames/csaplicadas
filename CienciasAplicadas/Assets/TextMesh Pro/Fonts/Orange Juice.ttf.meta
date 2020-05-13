@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e573c03241f93774bacf5fce741e81df
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Orange Juice
+  fontNames:
+  - Orange Juice
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 139876c0c993dc04688dfb6a7cef5a84, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
