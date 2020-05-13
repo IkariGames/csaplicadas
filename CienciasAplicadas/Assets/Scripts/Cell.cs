@@ -15,8 +15,13 @@ public class Cell : MonoBehaviour
     public float speed;
     public float maxSpeed;
     public float springRange;
+    public int secondsToLive;
+    public GameObject explosion;
 
     Vector2 disVector;
+    bool startToCount = false;
+    float time;
+
 
     void Start()
     {
@@ -55,6 +60,26 @@ public class Cell : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(rb.bodyType == RigidbodyType2D.Dynamic)
+        {
+            startToCount = true;
+        }
+        else
+        {
+            startToCount = false;
+        }
+
+        if (startToCount)
+        {
+            time += Time.deltaTime;
+            if(time >= secondsToLive)
+            {
+                Instantiate(explosion, transform.position, Quaternion.identity);
+                Destroy(gameObject, 0.1f);
+            }
+            
+        }
+
         
     }
 }

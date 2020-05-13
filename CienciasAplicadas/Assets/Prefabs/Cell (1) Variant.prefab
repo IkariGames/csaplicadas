@@ -4767,6 +4767,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6313103464825418763, guid: fcad6700d4742c14ea09f4761d113a10,
         type: 3}
+    - target: {fileID: 1203173480297667238, guid: 8c4b7fc88e9e5de48a70dff4346eb134,
+        type: 3}
+      propertyPath: explosion
+      value: 
+      objectReference: {fileID: 9104169560711364303, guid: 03e94e22b91786a4a9120497f8bd040f,
+        type: 3}
+    - target: {fileID: 1203173480297667238, guid: 8c4b7fc88e9e5de48a70dff4346eb134,
+        type: 3}
+      propertyPath: secondsToLive
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 1203173480297667239, guid: 8c4b7fc88e9e5de48a70dff4346eb134,
         type: 3}
       propertyPath: m_LocalPosition.x

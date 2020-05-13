@@ -5,13 +5,16 @@ using UnityEngine;
 public class Sligshot : MonoBehaviour
 {
     // Start is called before the first frame update
-    public GameObject cell;
-    public GameObject pivot;
-    public int timeWait;
+    public GameObject[] cell; //Cantidad de celulas disponibles a lanzar
+    public GameObject pivot; //No utilizado aun
+    public int cellCant;
+    public GameObject detector;
+
+    public int timeWait;//Tiempo que se espera antes de instanciar otra cell.
 
     float time;
     bool startCount = true;
-
+    bool detectorOn = false;
    
     private void OnTriggerStay2D(Collider2D collision)
     {
@@ -33,21 +36,33 @@ public class Sligshot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        Debug.Log("Empezaste a contar: " + startCount + " Tiempo: " + time);
+        
         if (startCount)
         {
             time += Time.deltaTime;
         }
         if(time >= timeWait && startCount)
         {
-            Instantiate(cell, transform.position, Quaternion.identity);
-            time = 0;
+            if(cellCant > 0)
+            {//Si existen celulas disponibles, instancia una 
+                Instantiate(cell[cellCant-1], transform.position, Quaternion.identity);
+                cellCant--;
+                time = 0;//Reinicia el tiempo de respawn
+            }
+            else
+            {
+                if (!detectorOn)
+                {
+                    Instantiate(detector);
+                    detectorOn = true;
+                }
+            }
+            
         }
     }
 
     void Start()
     {
-       
+        cellCant = cell.Length;
     }
 }

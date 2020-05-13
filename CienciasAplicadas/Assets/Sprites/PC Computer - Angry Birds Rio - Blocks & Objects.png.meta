@@ -728,7 +728,7 @@ TextureImporter:
         width: 48
         height: 127
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -749,7 +749,7 @@ TextureImporter:
         width: 46
         height: 201
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -757,6 +757,111 @@ TextureImporter:
       bones: []
       spriteID: c1ea912f4b2bd32f0800000000000000
       internalID: -991439852726014436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_2
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1793
+        width: 250
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c635240b49100a00800000000000000
+      internalID: 720603750362068676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_3
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1810
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d907c7df91e1da080800000000000000
+      internalID: -9174643768908025699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1888
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463288c9034eff290800000000000000
+      internalID: -7854308327675124892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_5
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1974
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54715650cc5a95d00800000000000000
+      internalID: 961982291102734149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Angry Birds Rio - Blocks & Objects_6
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2008
+        width: 122
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8662cb2030e877270800000000000000
+      internalID: 8248217386134283880
       vertices: []
       indices: 
       edges: []

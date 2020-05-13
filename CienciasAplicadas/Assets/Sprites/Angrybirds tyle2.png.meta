@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: 4356973887961519006
     second: Angrybirds tyle2_1
+  - first:
+      213: 5076026137685334160
+    second: Angrybirds tyle2_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -113,7 +116,7 @@ TextureImporter:
         width: 79
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,7 +137,7 @@ TextureImporter:
         width: 87
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -142,6 +145,27 @@ TextureImporter:
       bones: []
       spriteID: e935997baa4177c30800000000000000
       internalID: 4356973887961519006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angrybirds tyle2_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 986
+        width: 125
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0981557d0eaa17640800000000000000
+      internalID: 5076026137685334160
       vertices: []
       indices: 
       edges: []
