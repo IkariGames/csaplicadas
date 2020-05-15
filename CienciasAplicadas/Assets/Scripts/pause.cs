@@ -25,7 +25,7 @@ public class pause : MonoBehaviour
         }
     }
 
-    private void pauseGame(){
+    public void pauseGame(){
         active = !active;
         canvasMenu.enabled = active;
         Time.timeScale = 0f;
