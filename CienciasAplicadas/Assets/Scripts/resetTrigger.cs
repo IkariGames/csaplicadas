@@ -6,11 +6,10 @@ public class resetTrigger : MonoBehaviour
 {
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag =="ball")
+        if (collision.gameObject.tag == "ball")
         {
             SceneManager.LoadScene("SoapPong");
-            Debug.Log("Warebels");
+            Debug.Log("Ganaste siu papi");
         }
     }
-
 }
