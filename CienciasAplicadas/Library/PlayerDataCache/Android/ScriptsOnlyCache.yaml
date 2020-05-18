@@ -2,8 +2,8 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Cell
-    - Detectar
     - GameManager
+    - Menu
     - Sligshot
     - Struct
     - changeScene
@@ -23,7 +23,14 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
+    - TMPro.TMP_SubMeshUI
     - TMPro.TextMeshProUGUI
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -35,6 +42,8 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.Slider
   sceneClasses:
     Assets/Scenes/AngryCells.unity:
     - Class: 1
@@ -53,7 +62,24 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
-    Assets/Scenes/MenuPrincipal.unity:
+    Assets/Scenes/KirchofRush.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/Menu.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -68,38 +94,48 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11194}
+      Script: {instanceID: 11218}
     - Class: 114
-      Script: {instanceID: 11540}
+      Script: {instanceID: 11362}
     - Class: 114
-      Script: {instanceID: 12202}
+      Script: {instanceID: 11566}
     - Class: 114
-      Script: {instanceID: 12256}
+      Script: {instanceID: 11920}
     - Class: 114
-      Script: {instanceID: 12902}
+      Script: {instanceID: 12056}
     - Class: 114
-      Script: {instanceID: 13202}
+      Script: {instanceID: 12228}
     - Class: 114
-      Script: {instanceID: 13248}
+      Script: {instanceID: 12282}
     - Class: 114
-      Script: {instanceID: 13264}
+      Script: {instanceID: 12928}
     - Class: 114
-      Script: {instanceID: 13268}
+      Script: {instanceID: 13274}
     - Class: 114
-      Script: {instanceID: 13562}
+      Script: {instanceID: 13294}
     - Class: 114
-      Script: {instanceID: 13662}
+      Script: {instanceID: 13586}
     - Class: 114
-      Script: {instanceID: 13936}
+      Script: {instanceID: 13686}
     - Class: 114
-      Script: {instanceID: 14272}
+      Script: {instanceID: 13960}
+    - Class: 114
+      Script: {instanceID: 14296}
+    - Class: 114
+      Script: {instanceID: 14338}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -159,35 +195,33 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11194}
+      Script: {instanceID: 11218}
     - Class: 114
-      Script: {instanceID: 11282}
+      Script: {instanceID: 11306}
     - Class: 114
-      Script: {instanceID: 11342}
+      Script: {instanceID: 11566}
     - Class: 114
-      Script: {instanceID: 11540}
+      Script: {instanceID: 11952}
     - Class: 114
-      Script: {instanceID: 11926}
+      Script: {instanceID: 12228}
     - Class: 114
-      Script: {instanceID: 12202}
+      Script: {instanceID: 12230}
     - Class: 114
-      Script: {instanceID: 12204}
+      Script: {instanceID: 12788}
     - Class: 114
-      Script: {instanceID: 12762}
+      Script: {instanceID: 12928}
     - Class: 114
-      Script: {instanceID: 12902}
+      Script: {instanceID: 13228}
     - Class: 114
-      Script: {instanceID: 13202}
+      Script: {instanceID: 13274}
     - Class: 114
-      Script: {instanceID: 13248}
+      Script: {instanceID: 13290}
     - Class: 114
-      Script: {instanceID: 13264}
+      Script: {instanceID: 13586}
     - Class: 114
-      Script: {instanceID: 13562}
+      Script: {instanceID: 13686}
     - Class: 114
-      Script: {instanceID: 13662}
-    - Class: 114
-      Script: {instanceID: 14272}
+      Script: {instanceID: 14296}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -209,23 +243,6 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
-      Script: {instanceID: 0}
-    Assets/Scenes/kLaw.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -266,10 +283,10 @@ ScriptsOnlyBuild:
     className: DragNShoot
   - hash:
       serializedVersion: 2
-      Hash: cb5282a550a43d8bb381c740dee925b6
+      Hash: c200243c889b67abc7c1a03441b2ecb6
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Detectar
+    className: Menu
   - hash:
       serializedVersion: 2
       Hash: e7a73f5f78ba6445195ec23b74a1ce2d
@@ -410,7 +427,7 @@ ScriptsOnlyBuild:
     className: PixelPerfectCamera
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 221c69c1c75bb9a4d62d71f930e5ffae
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: pause
@@ -512,7 +529,7 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
-      Hash: 224e87522acc8070996af3b529c8dadd
+      Hash: 19ca5d9118e01d3b266e7009d1f2550a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Sligshot
@@ -752,9 +769,9 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/Scenes/MenuPrincipal.unity
+  - Assets/Scenes/Menu.unity
   - Assets/Scenes/AngryCells.unity
   - Assets/Scenes/SoapPong.unity
-  - Assets/Scenes/kLaw.unity
+  - Assets/Scenes/KirchofRush.unity
   - Assets/Scenes/TestScene2.unity
-  playerPath: C:/Users/dieku/Documents/GitHub/csaplicadas/APKs/IkariGames2.apk
+  playerPath: C:/Users/dieku/Documents/GitHub/csaplicadas/APKs/IkariGamesV1-1.apk

@@ -6,33 +6,58 @@ using UnityEngine.SceneManagement;
 public class pause : MonoBehaviour
 {
     private bool active;
-    private Canvas canvasMenu;
+    public Canvas canvasMenu;
+    public Canvas canvasWin;
+    public Canvas canvasGameOver;
+    public Canvas canvasInterfaz;
 
     void Start()
     {
-        canvasMenu = GetComponent<Canvas>();
-        canvasMenu.enabled = false;    
+        //Al inicio desactiva todos los paneles menos el de interfaz e inicia el tiempo
+        canvasMenu.enabled = false;  
+        canvasWin.enabled = false;
+        canvasGameOver.enabled = false;
+        canvasInterfaz.enabled = true;
+        Time.timeScale = 1f;  
     }
 
     void Update()
     {
-        if(Input.GetKeyDown("escape")){
-            if(!active){
-                pauseGame();
-            }else{
-                resumeGame();
-            }
-        }
+        
     }
 
     public void pauseGame(){
-        active = !active;
-        canvasMenu.enabled = active;
+        //al pausar el juego desactiva la interfaz y activa el menu
+        canvasMenu.enabled = true;
+        canvasGameOver.enabled = false;
+        canvasWin.enabled = false;
         Time.timeScale = 0f;
     }
+
+    public void winGame(){
+        //Al ganar solo muestra el menu de WIN
+        canvasWin.enabled = true;
+        canvasMenu.enabled = false;
+        canvasGameOver.enabled = false;
+        canvasInterfaz.enabled = false;
+        Time.timeScale = 0f;
+    }
+
+    public void gameOver(){
+        //Al perder solo muestra el menu de Perder
+        canvasGameOver.enabled = true;
+        canvasWin.enabled = false;
+        canvasMenu.enabled = false;
+        canvasInterfaz.enabled = false;
+        Time.timeScale = 0f;
+    }
+
     public void resumeGame(){
-        active = !active;
-        canvasMenu.enabled = active;
+        //Al volver siempre tienes que activar la interfaz
+        canvasMenu.enabled = false;
+        canvasWin.enabled = false;
+        canvasGameOver.enabled = false;
+        canvasInterfaz.enabled = true;
         Time.timeScale = 1f;
     }
     public void restartGame(string name){
@@ -41,7 +66,7 @@ public class pause : MonoBehaviour
     }
 
     public void quitGame(){
-        SceneManager.LoadScene("MenuPrincipal");
+        SceneManager.LoadScene("Menu");
         Time.timeScale = 1f;
     }
 }
