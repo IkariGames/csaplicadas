@@ -10,13 +10,12 @@ public class Cell : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    public Transform pivot;
-    Rigidbody2D rb;
-    public float speed;
-    public float maxSpeed;
-    public float springRange;
-    public int secondsToLive;
-    public GameObject explosion;
+    public Transform pivot;//pUNTO de refencia para el spawn
+    Rigidbody2D rb;//
+    public float maxSpeed;//
+    public float springRange;//Rango de lanzamiento
+    public int secondsToLive;//Cantidad de tiempo que estas vivo
+    public GameObject explosion;//Sistema de particulas para animacion de muerte
 
     Vector2 disVector;
     bool startToCount = false;
@@ -78,8 +77,10 @@ public class Cell : MonoBehaviour
                 Destroy(gameObject, 0.1f);
             }
             
+            
         }
 
         
     }
+
 }
